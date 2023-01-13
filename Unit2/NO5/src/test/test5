@@ -1,0 +1,24 @@
+①输入：
+0 % @ 6 d A 1 ] Z x 3 8
+输出：
+8 3 1 6 0
+x Z A d
+] @ %
+②输入：
+d A 1 0 Z x 3 8
+输出：
+8 3 0 1
+x Z A d
+The List is empty.
+③输入：
+0 0 0 0 0 0
+输出：
+0 0 0 0 0 0
+The List is empty.
+The List is empty.
+④输入：
+人 从 众 0 0 0 0
+输出
+0 0 0 0
+The List is empty.
+众 从 人
